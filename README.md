@@ -48,7 +48,7 @@ Python · SQL · NumPy · Pandas · scikit-learn · NLP · Generative AI · LLMs
 I'm interested in AI products, applied machine learning, agentic systems, and opportunities at the intersection of technology and product strategy.
 
 - **LinkedIn:** https://www.linkedin.com/in/vatsala-sahu/
-- **Portfolio:** Coming as my project portfolio develops
+- **Portfolio:** On the way as my project portfolio develops.
 
 ---
 
